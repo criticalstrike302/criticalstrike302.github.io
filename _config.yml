@@ -22,7 +22,7 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Dr. Jeremy James"
 description              : "Personal blog of Dr. Jeremy James, incarcerated counselor in Texas, US."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://drjamesnotes.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -114,7 +114,7 @@ analytics:
 # Site Author
 author:
   name             : "Dr. Jeremy James"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/cropped_pic_drjames.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am an incarcerated counselor in Texas, US."
   location         : "George Beto Unit, TX 75880"
   email            :
@@ -319,7 +319,9 @@ defaults:
     values:
       layout: single
       author_profile: true
+      show_date: true
       read_time: true
       comments: # true
       share: true
       related: true
+      # classes: wide
