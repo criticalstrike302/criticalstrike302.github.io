@@ -1,6 +1,6 @@
 ---
 title: "Michael Berry"
-excerpt: "Today will hear from a current inmate named Michael Berry. Here is his story:
+excerpt: "Today will hear from a current inmate named Michael Berry. Here is his story:"
 layout: single
 ---
 Welcome to today's edition of Dr.'s note. Today will hear from a current inmate named Michael Berry. Here is his story:
